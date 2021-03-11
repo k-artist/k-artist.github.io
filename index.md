@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Korea Artist Group 
 
-You can use the [editor on GitHub](https://github.com/k-artist/k-artist.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We're one of the Artist Group in Korea. I will offer the opportunity to get a masterpiece created by a Korean artist.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Today's Deal
 
-### Markdown
+## The writer of light : Self-portrait
+![](./_media/wirter-of-light-DSC00431-resized.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Successful Bidder Bonus
+Offline Exhibition & Live Streaming
+Successful bidder name/id and artist name will be listed together on this artwork at an offline exhibition in Seoul, Korea. If the successful bidder wants, we can broadcast the exhibition via live streaming via Zoom, Google Meet, Webex, and so on.
 
-```markdown
-Syntax highlighted code block
+## International Delivery
+After the exhibition is over, you can receive international shipping for your artwork, including free wooden frames. (Shipping charges may apply.)
 
-# Header 1
-## Header 2
-### Header 3
+## Press Release
+If the winning bid exceeds more than $100,000, we can distribute a press release online to assure that this work and exhibition are authentic and unique.
 
-- Bulleted
-- List
+## Unlockable Content
+Artist Profile
 
-1. Numbered
-2. List
+## Description of Artwork
+I have been writing a story with light. This photo represents the identity of myself as a photographer. The lights in parallel mean life and are in the middle of the present life. In addition, the overall angle was reversed by 180 degrees, which means a new perspective on the world as a photographer.
 
-**Bold** and _Italic_ and `Code` text
+![](./_media/writer-of-light-properties.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k-artist/k-artist.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Check out Artwork](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/29936100893215507017609825591972490838885901444342946049702828425075247546369)
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions, please let us know about it via Telegram. <https://t.me/k_art_nft>
