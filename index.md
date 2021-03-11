@@ -5,7 +5,7 @@ We're one of the Artist Group in Korea. I will offer the opportunity to get a ma
 ## Today's Deal
 
 ## The writer of light : Self-portrait
-![](./_media/wirter-of-light-DSC00431-resized.jpg)
+![](https://github.com/k-artist/k-artist.github.io/raw/gh-pages/_media/wirter-of-light-DSC00431-resized.jpg)
 
 ## Successful Bidder Bonus
 Offline Exhibition & Live Streaming
@@ -23,7 +23,7 @@ Artist Profile
 ## Description of Artwork
 I have been writing a story with light. This photo represents the identity of myself as a photographer. The lights in parallel mean life and are in the middle of the present life. In addition, the overall angle was reversed by 180 degrees, which means a new perspective on the world as a photographer.
 
-![](./_media/writer-of-light-properties.png)
+![](https://github.com/k-artist/k-artist.github.io/raw/gh-pages/_media/writer-of-light-properties.png)
 
 [Check out Artwork](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/29936100893215507017609825591972490838885901444342946049702828425075247546369)
 
