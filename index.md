@@ -31,7 +31,7 @@ I have been writing a story with light. This photo represents the identity of my
 <!--
 ![](https://github.com/k-artist/k-artist.github.io/raw/gh-pages/_media/writer-of-light-properties.png)
 -->
-<img width="289" alt="writer-of-light-properties" src="https://user-images.githubusercontent.com/80469389/110809840-9a603b00-82c8-11eb-8130-13403dad1b95.png"></img>
+<img width="289" alt="writer-of-light-properties" src="https://user-images.githubusercontent.com/80469389/110809840-9a603b00-82c8-11eb-8130-13403dad1b95.png">
 
 [Check out Artwork](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/29936100893215507017609825591972490838885901444342946049702828425075247546369)
 
